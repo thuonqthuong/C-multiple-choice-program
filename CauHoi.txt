@@ -1,0 +1,171 @@
+50
+BAS1141
+TIENG ANH A1.1
+2
+1|Who is your friend?|Mika|Jelly|John|Kelsa|C
+2|Where is your hometown?|New land|A old town|A city|A contryside|B
+BAS1142
+XU LY NGON NGU TU NHIEN
+0
+BAS1144
+XU LY TIN HIEU HE THONG
+0
+BAS1145
+TIENG ANH B1.1
+0
+BAS1146
+TIENG ANH B1.2
+0
+BAS1201
+DAI SO
+0
+BAS1203
+GIAI TICH 1
+0
+BAS1204
+GIAI TICH 2
+0
+BAS1210
+LY THUYET XAC SUAT THONG KE
+0
+BAS1224
+VAT LY 1 VA THI NGHIEM
+0
+BAS1226
+XAC SUAT THONG KE
+0
+BAS1227
+VAT LY 3 VA THI NGHIEM
+0
+BSA1309
+KINH TE LUONG
+0
+BSA1310
+KINH TE VI MO 1
+0
+BSA1328
+QUAN TRI HOC
+0
+ELE1308
+DIEN TU CONG SUAT
+0
+ELE1310
+DIEN TU TUONG TU
+0
+ELE1318
+LY THUYET MACH
+0
+ELE1319
+LY THUYET THONG TIN
+0
+ELE1320
+LY THUYET TRUONG DIEN TU SIEU CAO TAN
+0
+ELE1330
+XU LY TIN HIEU SO
+0
+ELE1433
+KY THUAT SO
+0
+FIA1312
+KE TOAN TAI CHINH 1
+0
+FIA1321
+NGUYEN LY KE TOAN
+0
+FIA1326
+TAI CHINH TIEN TE
+0
+FIA1420
+THUE VA KE TOAN THUE
+0
+HIHI
+SF
+0
+INT1154
+TIN HOC CO SO 1
+0
+INT1155
+TIN HOC CO SO 2
+0
+INT1156
+TIN HOC CO SO 3
+0
+INT1303
+AN TOAN BAO MAT HE THONG THONG TIN
+0
+INT1306
+CAU TRUC DU LIEU VA GIAI THUAT
+0
+INT1313
+CO SO DU LIEU
+0
+INT1319
+HE DIEU HANH
+0
+INT1323
+KIEN TRUC MAY TINH
+0
+INT1328
+KY THUAT DO HOA
+0
+INT1330
+KY THUAT VI XU LY
+0
+INT1332
+LAP TRINH HUONG DOI TUONG
+0
+INT1336
+MANG MAY TINH
+18
+1|Giao thuc nao thuoc tang Application:|IP|HTTP|NFS|TCP|B
+2|Nhung co gai chan lam tay bun|Cham chi lam viec suot dem|Di den nhung canh dong mau mo phia tay|Tim kiem dua con gai cua than linh|Chay trong khoi bong dem tan nhan|C
+3|Thiet bi Bridge nam o tang nao cua mo hinh OSI?|Physical|Data link|Network|Tat ca deu sai|B
+4|Thiet bi Repeater nam o tang nao cua mo hinh OSI?|Physical|Data link|Network|Tat ca deu sai|A
+5|Thiet bi Router thong thuong nam o tang nao cua mo hinh OSI?|Physical|Data link|Network|Tu tang Network tro len|D
+6|Cac UTP co the ket noi toi da bao nhieu met?|10|20|100|200|C
+7|Cap quang co the ket noi toi da bao nhieu met?|1000|2000|Lon hon 1000|Tat ca deu sai|B
+8|De noi Router va may tinh ta phai bam cap kieu nao?|Thang|Cheo|Kieu nao cung duoc|Tat ca deu sai|A
+9|Thiet bi Repeater xu ly o tang:|Vat ly|Data link|Network|Tang Transport tro len|A
+10|Phat bieu nao sau day la dung nhat cho Switch|Su dung dia chi vat ly va hoat dong tai tang Physical cua mo hinh OSI|Su dung dia chi vat ly va hoat dong tai tang Network cua mo hinh OSI|Su dung dia chi vat ly va hoat dong tai tang Data link cua mo hinh OSI|Su dung dia chi IP va hoat dong tai tang Network cua mo hinh OSI|C
+11|Chon phat bieu dung ve Switch va hub:|Su dung Hub hieu qua hon, do Hub lam tang kich thuoc collision-domain|Su dung switch hieu qua hon do switch phan cach cac collision-domain|Hieu suat giong nhau, nhung switch cho phep cau hinh va dat tien hon|Hub lam tang hieu nang mang do chi truyen tin hieu nhi phan|B
+12|Cap UTP duoc su dung voi dau noi la:|RJ45|BNC|Ca hai|Cac cau tren deu sai|A
+13|Khoang cach toi da cho cap UTP la:|185m|100m|150m|50m|B
+14|Kien truc 1 mang LAN co the la:|RING|BUS|Co the phoi hop cac mo hinh tren|Tat ca dap an tren|B
+15|Phat bieu nao sau day dung nhat cho cau hinh Star:|Can it cap hon so voi cau hinh khac|Khi cap dut tai mot diem nao do lam toan bo mang ngung hoat dong|Kho tai lap cau hinh hon so voi cau hinh khac|De kiem soat va quan ly tap trung|D
+16|Mo ta nao thich hop cho mang BUS:|Can nhieu cap hon cau hinh khac|Phuong tien re tien va de su dung|So luong may tren mang khong anh huong den hieu suat mang|De sua chua hon cac cau hinh khac|B
+17|Moi truong truyen tin thong thuong trong mang may tinh la:|Cac loai cap nhu: dong truc, xoan doi, cap quang, cap dien thoai...|Song dien tu ...|Tat ca moi truong tren|Khong co moi truong nao nhu tren|C
+18|Viec nhieu goi tin bi dung do tren mang se lam cho|Hieu qua truyen thong cua mang tang len|Hieu qua truyen thong cua mang kem di|Hieu qua truyen thong cua mang khong thay doi|Phu thuoc vao cac ung dung mang moi tinh duoc hieu qua|B
+INT1339
+NGON NGU LAP TRINH C++
+0
+INT1340
+NHAP MON CONG NGHE PHAN MEM
+0
+INT1341
+NHAP MON TRI TUE NHAN TAO
+0
+INT1342
+PHAN TICH THIET KE HE THONG THONG TIN
+0
+INT1358
+TOAN ROI RAC 1
+0
+INT1359_3
+TOAN ROI RAC 2
+0
+INT1362
+XU LY ANH
+0
+INT1416
+DAM BAO CHAT LUONG PHAN MEM
+0
+INT1422
+KHO DU LIEU VA KHAI PHA DU LIEU
+0
+INT1446
+PHAT TRIEN HE THONG THUONG MAI DIEN TU
+0
+INT1472
+CO SO AN TOAN THONG TIN
+0
